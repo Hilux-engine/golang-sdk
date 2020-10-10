@@ -1,0 +1,12 @@
+{
+  "namespace":"Hilux",
+  "toggle":"test",
+  "bucket_info":{
+    "begin":500,
+    "rate":700
+  },
+  "white_list":{
+    "type":"uid",
+    "list":[231,343,354,123,444,888]
+  }
+}
